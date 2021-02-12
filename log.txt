@@ -1,0 +1,1041 @@
+Coronavirus disease 2019 C-reactive protein
+0.0
+Coronavirus disease 2019 Acronym
+0.0
+Coronavirus disease 2019 Kinase
+0.0
+Coronavirus disease 2019 Griffithsin
+0.0
+Coronavirus disease 2019 Cerebrospinal fluid
+0.0
+Coronavirus disease 2019 Large for gestational age
+0.0
+Coronavirus disease 2019 O'nyong'nyong virus
+0.0
+Coronavirus disease 2019 Human feces
+0.0
+Coronavirus disease 2019 Mayaro virus disease
+0.0
+Coronavirus disease 2019 Protease inhibitor (biology)
+0.0
+Coronavirus disease 2019 Oxygen
+0.0
+Coronavirus disease 2019 Philippe Sansonetti
+0.0
+Coronavirus disease 2019 Omsk hemorrhagic fever
+0.0067555034
+Coronavirus disease 2019 Alkhurma virus
+0.0
+Coronavirus disease 2019 Central nervous system
+0.0
+Coronavirus disease 2019 Bornaviridae
+0.0
+Coronavirus disease 2019 Fatigue
+0.0
+Coronavirus disease 2019 Sexually transmitted infection
+0.0
+Coronavirus disease 2019 Interleukin 2
+0.0
+Coronavirus disease 2019 Huanan County
+0.0
+Coronavirus disease 2019 Blood transfusion
+0.0
+Coronavirus disease 2019 Health professional
+0.0
+Coronavirus disease 2019 Millimeter wave scanner
+0.0
+Coronavirus disease 2019 Ritonavir
+0.0
+Coronavirus disease 2019 Copper
+0.0
+Coronavirus disease 2019 Caesarean section
+0.0
+Coronavirus disease 2019 Pathogen
+0.0
+Coronavirus disease 2019 AAK1
+0.0
+Coronavirus disease 2019 The Guardian
+0.0
+Coronavirus disease 2019 In utero
+0.0
+Coronavirus disease 2019 Lassa fever
+0.011693488
+Coronavirus disease 2019 Lesion
+0.0
+Coronavirus disease 2019 Rheumatoid arthritis
+0.0
+Coronavirus disease 2019 Viral hemorrhagic fever
+0.0
+Coronavirus disease 2019 Panic buying
+0.0
+Coronavirus disease 2019 RNA
+0.0
+Coronavirus disease 2019 Neutrophil
+0.0
+Coronavirus disease 2019 Pancreas
+0.0
+Coronavirus disease 2019 Placenta
+0.0
+Coronavirus disease 2019 Procalcitonin
+0.0
+Coronavirus disease 2019 Hepatitis
+0.0
+Coronavirus disease 2019 Influenza A virus subtype H5N1
+0.0
+Coronavirus disease 2019 Eosinophil
+0.0
+Coronavirus disease 2019 Box plot
+0.0
+Coronavirus disease 2019 Foot-and-mouth disease
+0.0
+Coronavirus disease 2019 Hepatitis F virus
+0.0
+Coronavirus disease 2019 Organism
+0.0
+Coronavirus disease 2019 Meta-analysis
+0.0
+Coronavirus disease 2019 Edema
+0.0
+Coronavirus disease 2019 EMedicine
+0.0
+Coronavirus disease 2019 Influenza A virus subtype H1N1
+0.0
+Coronavirus disease 2019 Thermographic camera
+0.0
+Coronavirus disease 2019 The Wall Street Journal
+0.0
+Coronavirus disease 2019 Baricitinib
+0.0
+Coronavirus disease 2019 Clinical trial
+0.0
+Coronavirus disease 2019 Patient
+0.0
+Coronavirus disease 2019 Cruise ship
+0.0
+Coronavirus disease 2019 Machine learning
+0.0
+Coronavirus disease 2019 Didier Raoult
+0.0
+Coronavirus disease 2019 Orthohantavirus
+0.0
+Coronavirus disease 2019 Indiana vesiculovirus
+0.0
+Coronavirus disease 2019 Preterm birth
+0.0
+Coronavirus disease 2019 Herpes simplex
+0.0
+Coronavirus disease 2019 Immunoglobulin M
+0.0
+Coronavirus disease 2019 Viral load
+0.0
+Coronavirus disease 2019 Immunoglobulin G
+0.0
+Coronavirus disease 2019 Fifth disease
+0.0
+Coronavirus disease 2019 Roseola
+0.0
+Coronavirus disease 2019 Sensitivity and specificity
+0.0
+Coronavirus disease 2019 Fomite
+0.007436559
+Coronavirus disease 2019 Marburg virus
+0.0
+Coronavirus disease 2019 Angiotensin
+0.0
+Coronavirus disease 2019 Murray Valley encephalitis virus
+0.0
+Coronavirus disease 2019 Gestational age
+0.0
+Coronavirus disease 2019 Melbourne
+0.0
+Coronavirus disease 2019 Chikungunya
+0.0
+Coronavirus disease 2019 Public health
+0.0
+Coronavirus disease 2019 Biopsy
+0.0
+Coronavirus disease 2019 Polypropylene
+0.0
+Coronavirus disease 2019 Virus
+0.0
+Showing concepts of "Coronavirus disease 2019"
+Key = Helen Y. Chu, Value = 0.0904494
+Key = COVID-19 pandemic in Uzbekistan, Value = 0.095947705
+Key = Joanne Lemieux, Value = 0.09480132
+Key = Murine coronavirus, Value = 0.09443909
+Key = Giovanni Battista Rabino, Value = 0.09055101
+Key = COVID-19 pandemic in Senegal, Value = 0.09789083
+Key = COVID-19 pandemic in Liechtenstein, Value = 0.0932824
+Key = COVID-19 pandemic in Liberia, Value = 0.09044647
+Key = Susan Weiss, Value = 0.09700909
+Key = Angelo Borrelli, Value = 0.10093844
+Key = COVID-19 pandemic in Monaco, Value = 0.121189415
+Key = COVID-19 pandemic in Eritrea, Value = 0.100846864
+Key = Steven Dick, Value = 0.10379407
+Key = COVID-19 pandemic in the Democratic Republic of the Congo, Value = 0.09912362
+Key = COVID-19 pandemic in Vanuatu, Value = 0.09398533
+Key = Timeline of the COVID-19 pandemic in the United States, Value = 0.098619714
+Key = COVID-19 pandemic in Portland, Oregon, Value = 0.09062406
+Key = Coronaviridae, Value = 0.12733568
+Key = Iraj Harirchi, Value = 0.09751543
+Key = COVID-19 pandemic in Martinique, Value = 0.10298736
+Key = COVID-19 pandemic in Antarctica, Value = 0.12552321
+Key = COVID-19 pandemic in East Timor, Value = 0.10232913
+Key = COVID-19 pandemic in Eswatini, Value = 0.09704959
+Key = COVID-19 pandemic in Haiti, Value = 0.09721597
+Key = COVID-19 pandemic in Benin, Value = 0.099994294
+Key = COVID-19 pandemic in Guatemala, Value = 0.09214164
+Key = List of covers of Time magazine (2020s), Value = 0.09072665
+Key = Coronavirus Act 2020, Value = 0.10612548
+Key = COVID-19 pandemic in the Republic of the Congo, Value = 0.102740176
+Key = COVID-19 pandemic in Sudan, Value = 0.093385786
+Key = Human coronavirus HKU1, Value = 0.10277423
+Key = COVID-19 pandemic in Djibouti, Value = 0.101189844
+Key = COVID-19 pandemic in Sevastopol, Value = 0.09458989
+Key = Francesco Saverio Pavone, Value = 0.09023023
+Key = COVID-19 pandemic in the Cayman Islands, Value = 0.10565422
+Key = Hadi Khosroshahi, Value = 0.10937554
+Key = COVID-19 pandemic in Guadeloupe, Value = 0.10555288
+Key = Louise Wain, Value = 0.10008729
+Key = Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020, Value = 0.09105963
+Key = Patient under investigation, Value = 0.13728018
+Key = Coronavirus diseases, Value = 0.09992348
+Key = COVID-19 pandemic in the Bahamas, Value = 0.107321985
+Key = COVID-19 pandemic in the Åland Islands, Value = 0.10563041
+Key = March 2020 Oval Office Address, Value = 0.092148766
+Key = Statistics of the COVID-19 pandemic in Malaysia, Value = 0.10457441
+Key = COVID-19 pandemic deaths in January 2020, Value = 0.10070491
+Key = COVID-19 pandemic in the Maldives, Value = 0.10012982
+Key = Teresa Lambe, Value = 0.09906704
+Key = COVID-19 pandemic in the Northern Mariana Islands, Value = 0.090734765
+Key = Social stigma associated with COVID-19, Value = 0.091528244
+Key = COVID-19 pandemic in the Solomon Islands, Value = 0.09294895
+Key = Gaetano Manfredi, Value = 0.09027624
+Key = Canine coronavirus, Value = 0.11374285
+Key = COVID-19 pandemic in the United States Virgin Islands, Value = 0.09843634
+Key = Avi Schiffmann, Value = 0.09458989
+Key = COVID-19 pandemic in New Jersey, Value = 0.094239175
+Key = COVID-19 pandemic in the Central African Republic, Value = 0.096389346
+Key = Khalif Mumin Tohow, Value = 0.10318972
+Key = COVID-19 pandemic in Akrotiri and Dhekelia, Value = 0.098896444
+Key = Teku Hospital, Value = 0.120636865
+Key = COVID-19 pandemic in Togo, Value = 0.102488995
+Key = COVID-19 pandemic in Madagascar, Value = 0.09732503
+Key = COVID-19 pandemic in Guinea, Value = 0.09082203
+Key = White House Coronavirus Task Force, Value = 0.090597615
+Key = COVID-19 pandemic in Alaska, Value = 0.09342464
+Key = COVID-19 pandemic in Egypt, Value = 0.093810566
+Key = COVID-19 pandemic in Gabon, Value = 0.09210316
+Key = COVID-19 pandemic in Saint Pierre and Miquelon, Value = 0.10016212
+Key = COVID-19 pandemic in Illinois, Value = 0.09788275
+Key = COVID-19 pandemic in the Marshall Islands, Value = 0.09398533
+Key = Pasteur Institute of Dakar, Value = 0.100480765
+Key = COVID-19 pandemic in Niger, Value = 0.10821754
+Key = DA2PPC vaccine, Value = 0.09239997
+Key = Embassy of Israel, Athens, Value = 0.09185025
+Key = COVID-19 pandemic in Chad, Value = 0.09566325
+Key = Innocenzo Donina, Value = 0.09298424
+Key = COVID-19 pandemic in Connecticut, Value = 0.095034435
+Key = COVID-19 pandemic in the Kurdistan Region, Value = 0.093498416
+Key = COVID-19 pandemic in Ceuta, Value = 0.11560754
+Key = United Kingdom legislation connected with the COVID-19 pandemic, Value = 0.101298206
+Key = COVID-19 pandemic in Panama, Value = 0.09744156
+Key = COVID-19 pandemic in Mozambique, Value = 0.09079562
+Key = COVID-19 pandemic in Cuba, Value = 0.0996437
+Key = Vicenç Capdevila, Value = 0.091793455
+Key = COVID-19 pandemic in North America, Value = 0.095576994
+Key = Wikipedia's response to the COVID-19 pandemic, Value = 0.09067945
+Key = SARS (disambiguation), Value = 0.111180484
+Key = COVID-19 pandemic in Burundi, Value = 0.10275011
+Key = Hamid Kahram, Value = 0.091793455
+Key = COVID-19 pandemic death rates by country, Value = 0.09641782
+Key = COVID-19 pandemic in the Sahrawi Arab Democratic Republic, Value = 0.10158047
+Key = COVID-19 pandemic in Mauritania, Value = 0.1035127
+Key = Novel coronavirus, Value = 0.14685224
+Key = COVID-19 pandemic in Mali, Value = 0.10048709
+Key = COVID-19 pandemic in the Canary Islands, Value = 0.099115014
+Key = COVID-19 pandemic in New Caledonia, Value = 0.09505331
+Key = COVID-19 pandemic in Rwanda, Value = 0.09446019
+Key = Human coronavirus 229E, Value = 0.092658006
+Key = Timeline of the COVID-19 pandemic in February 2020, Value = 0.09662873
+Key = Rene Maglanque, Value = 0.09303654
+Showing concepts of "Metapneumovirus"
+Key = Human coronavirus HKU1, Value = 0.16443725
+Key = List of MeSH codes (B04), Value = 0.046982072
+Key = Coinfection, Value = 0.09966403
+Key = Rhinitis, Value = 0.06644268
+Key = Lumicitabine, Value = 0.16610672
+Key = Social history of viruses, Value = 0.046982072
+Key = List of childhood diseases and disorders, Value = 0.2325494
+Key = Transmission (medicine), Value = 0.06644268
+Key = James E. Crowe, Value = 0.23491037
+Key = Avian coronavirus, Value = 0.1162747
+Key = Metavirus, Value = 0.1162747
+Key = Sinusitis, Value = 0.049832016
+Key = Transporter Classification Database, Value = 0.05813735
+Key = Transmission-based precautions, Value = 0.049832016
+Key = List of virus species, Value = 0.035236556
+Key = Anthroponotic disease, Value = 0.07047311
+Key = Respiratory tract infection, Value = 0.09966403
+Key = Emergent virus, Value = 0.05813735
+Key = Avian metapneumovirus, Value = 0.40278736
+Key = Human coronavirus NL63, Value = 0.09966403
+Key = Viral pneumonia, Value = 0.14094622
+Key = Timeline of the COVID-19 pandemic in January 2020, Value = 0.02076334
+Key = List of virus genera, Value = 0.08305336
+Key = Multisystem inflammatory syndrome in children, Value = 0.03322134
+Key = RNA virus, Value = 0.06644268
+Key = List of infectious diseases, Value = 0.14094622
+Key = ATCvet code QI01, Value = 0.08305336
+Key = Common cold, Value = 0.04152668
+Key = Community-acquired pneumonia, Value = 0.093964145
+Key = Mountain gorilla, Value = 0.049832016
+Key = Ground-glass opacity, Value = 0.093964145
+Key = Bronchiolitis, Value = 0.049832016
+Key = Avian infectious bronchitis, Value = 0.18792829
+Key = Mononegavirales, Value = 0.12206301
+Key = Respiratory syncytial virus, Value = 0.07047311
+Key = Pneumoviridae, Value = 0.3895548
+Key = Neonatal infection, Value = 0.07047311
+Key = Gregory Prince, Value = 0.117455184
+Key = Mel Krajden, Value = 0.19932806
+Key = Human metapneumovirus, Value = 0.48641193
+Coronavirus disease 2019 Metapneumovirus
+0.016899912
+Coronavirus disease 2019 Lopinavir
+0.0
+Coronavirus disease 2019 Confidence interval
+0.0
+Coronavirus disease 2019 December 31
+0.0
+Coronavirus disease 2019 Smallpox
+0.0
+Coronavirus disease 2019 Sin Nombre orthohantavirus
+0.0
+Coronavirus disease 2019 Diabetes (disambiguation)
+0.0
+Coronavirus disease 2019 Cord blood
+0.0
+Coronavirus disease 2019 Pasteur Institute
+0.015240104
+Coronavirus disease 2019 Bolivian hemorrhagic fever
+0.006756153
+Coronavirus disease 2019 Swine influenza
+0.0
+Coronavirus disease 2019 Brass
+0.0
+Coronavirus disease 2019 Thrombocytopenia
+0.0
+Coronavirus disease 2019 Social media
+0.0
+Coronavirus disease 2019 Seroconversion
+0.0
+Coronavirus disease 2019 Aix-Marseille University
+0.0
+Coronavirus disease 2019 Incidence (epidemiology)
+0.0
+Coronavirus disease 2019 London School of Hygiene & Tropical Medicine
+0.0
+Coronavirus disease 2019 Risk–benefit ratio
+0.0
+Coronavirus disease 2019 Estrogen
+0.0
+Coronavirus disease 2019 Review article
+0.0
+Coronavirus disease 2019 Bornholm disease
+0.0
+Coronavirus disease 2019 Stainless steel
+0.0
+Coronavirus disease 2019 Human T-lymphotropic virus
+0.0
+Coronavirus disease 2019 Screening (medicine)
+0.0
+Coronavirus disease 2019 Tuberculosis
+0.0
+Coronavirus disease 2019 Preprint
+0.0
+Coronavirus disease 2019 Leukocytosis
+0.0
+Coronavirus disease 2019 Mortality rate
+0.0
+Coronavirus disease 2019 Immunoglobulin superfamily
+0.0
+Coronavirus disease 2019 Dengue fever
+0.0
+Coronavirus disease 2019 2020
+0.009519469
+Coronavirus disease 2019 2019
+0.0
+Coronavirus disease 2019 Median
+0.0
+Coronavirus disease 2019 Net reproduction rate
+0.0
+Coronavirus disease 2019 Nucleoside
+0.0
+Coronavirus disease 2019 Cowpox
+0.0
+Coronavirus disease 2019 Puumala orthohantavirus
+0.0
+Coronavirus disease 2019 Leukemia
+0.0
+Coronavirus disease 2019 Pomeranian (dog)
+0.0
+Coronavirus disease 2019 Anorexia (symptom)
+0.0
+Coronavirus disease 2019 Blood type
+0.0
+Coronavirus disease 2019 Statistical dispersion
+0.0
+Coronavirus disease 2019 Rift Valley fever
+0.0
+Coronavirus disease 2019 November 17
+0.0
+Coronavirus disease 2019 Ross River fever
+0.0
+Coronavirus disease 2019 Half-life
+0.0
+Coronavirus disease 2019 Reverse transcriptase
+0.0
+Coronavirus disease 2019 SOFA score
+0.0
+Coronavirus disease 2019 Yellow fever
+0.0
+Coronavirus disease 2019 International Committee on Taxonomy of Viruses
+0.010847493
+Coronavirus disease 2019 Acute flaccid myelitis
+0.0
+Coronavirus disease 2019 University of Hong Kong
+0.0
+Coronavirus disease 2019 Wart
+0.0
+Coronavirus disease 2019 Immunotherapy
+0.0
+Coronavirus disease 2019 Monkeypox
+0.0
+Coronavirus disease 2019 Hypoxia (medical)
+0.0
+Coronavirus disease 2019 Creatinine
+0.0
+Coronavirus disease 2019 Lung
+0.0
+Coronavirus disease 2019 Furin
+0.0
+Coronavirus disease 2019 Japanese encephalitis
+0.0
+Coronavirus disease 2019 Syphilis
+0.0
+Coronavirus disease 2019 Exponential growth
+0.0
+Coronavirus disease 2019 Didier Pittet
+0.0
+Coronavirus disease 2019 Corticosteroid
+0.0
+Coronavirus disease 2019 Ileum
+0.0
+Coronavirus disease 2019 Breast milk
+0.0
+Coronavirus disease 2019 Saint Louis encephalitis
+0.0
+Coronavirus disease 2019 Federal Office of Public Health
+0.0
+Coronavirus disease 2019 Meningitis
+0.0
+Coronavirus disease 2019 Powassan encephalitis
+0.0
+Coronavirus disease 2019 Varicella zoster virus
+0.0
+Coronavirus disease 2019 Creatine kinase
+0.0
+Coronavirus disease 2019 China
+0.0
+Coronavirus disease 2019 The BMJ
+0.0
+Coronavirus disease 2019 Conspiracy theory
+0.0
+Coronavirus disease 2019 Superinfection
+0.0
+Coronavirus disease 2019 University of Geneva
+0.0
+Coronavirus disease 2019 Arthropod
+0.0
+Coronavirus disease 2019 University of Science and Technology of China
+0.0
+Coronavirus disease 2019 Interleukin 10
+0.0
+Coronavirus disease 2019 Mokola lyssavirus
+0.0
+Showing concepts of "Coronavirus disease 2019"
+Key = Helen Y. Chu, Value = 0.0904494
+Key = COVID-19 pandemic in Uzbekistan, Value = 0.095947705
+Key = Joanne Lemieux, Value = 0.09480132
+Key = Murine coronavirus, Value = 0.09443909
+Key = Giovanni Battista Rabino, Value = 0.09055101
+Key = COVID-19 pandemic in Senegal, Value = 0.09789083
+Key = COVID-19 pandemic in Liechtenstein, Value = 0.0932824
+Key = COVID-19 pandemic in Liberia, Value = 0.09044647
+Key = Susan Weiss, Value = 0.09700909
+Key = Angelo Borrelli, Value = 0.10093844
+Key = COVID-19 pandemic in Monaco, Value = 0.121189415
+Key = COVID-19 pandemic in Eritrea, Value = 0.100846864
+Key = Steven Dick, Value = 0.10379407
+Key = COVID-19 pandemic in the Democratic Republic of the Congo, Value = 0.09912362
+Key = COVID-19 pandemic in Vanuatu, Value = 0.09398533
+Key = Timeline of the COVID-19 pandemic in the United States, Value = 0.098619714
+Key = COVID-19 pandemic in Portland, Oregon, Value = 0.09062406
+Key = Coronaviridae, Value = 0.12733568
+Key = Iraj Harirchi, Value = 0.09751543
+Key = COVID-19 pandemic in Martinique, Value = 0.10298736
+Key = COVID-19 pandemic in Antarctica, Value = 0.12552321
+Key = COVID-19 pandemic in East Timor, Value = 0.10232913
+Key = COVID-19 pandemic in Eswatini, Value = 0.09704959
+Key = COVID-19 pandemic in Haiti, Value = 0.09721597
+Key = COVID-19 pandemic in Benin, Value = 0.099994294
+Key = COVID-19 pandemic in Guatemala, Value = 0.09214164
+Key = List of covers of Time magazine (2020s), Value = 0.09072665
+Key = Coronavirus Act 2020, Value = 0.10612548
+Key = COVID-19 pandemic in the Republic of the Congo, Value = 0.102740176
+Key = COVID-19 pandemic in Sudan, Value = 0.093385786
+Key = Human coronavirus HKU1, Value = 0.10277423
+Key = COVID-19 pandemic in Djibouti, Value = 0.101189844
+Key = COVID-19 pandemic in Sevastopol, Value = 0.09458989
+Key = Francesco Saverio Pavone, Value = 0.09023023
+Key = COVID-19 pandemic in the Cayman Islands, Value = 0.10565422
+Key = Hadi Khosroshahi, Value = 0.10937554
+Key = COVID-19 pandemic in Guadeloupe, Value = 0.10555288
+Key = Louise Wain, Value = 0.10008729
+Key = Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020, Value = 0.09105963
+Key = Patient under investigation, Value = 0.13728018
+Key = Coronavirus diseases, Value = 0.09992348
+Key = COVID-19 pandemic in the Bahamas, Value = 0.107321985
+Key = COVID-19 pandemic in the Åland Islands, Value = 0.10563041
+Key = March 2020 Oval Office Address, Value = 0.092148766
+Key = Statistics of the COVID-19 pandemic in Malaysia, Value = 0.10457441
+Key = COVID-19 pandemic deaths in January 2020, Value = 0.10070491
+Key = COVID-19 pandemic in the Maldives, Value = 0.10012982
+Key = Teresa Lambe, Value = 0.09906704
+Key = COVID-19 pandemic in the Northern Mariana Islands, Value = 0.090734765
+Key = Social stigma associated with COVID-19, Value = 0.091528244
+Key = COVID-19 pandemic in the Solomon Islands, Value = 0.09294895
+Key = Gaetano Manfredi, Value = 0.09027624
+Key = Canine coronavirus, Value = 0.11374285
+Key = COVID-19 pandemic in the United States Virgin Islands, Value = 0.09843634
+Key = Avi Schiffmann, Value = 0.09458989
+Key = COVID-19 pandemic in New Jersey, Value = 0.094239175
+Key = COVID-19 pandemic in the Central African Republic, Value = 0.096389346
+Key = Khalif Mumin Tohow, Value = 0.10318972
+Key = COVID-19 pandemic in Akrotiri and Dhekelia, Value = 0.098896444
+Key = Teku Hospital, Value = 0.120636865
+Key = COVID-19 pandemic in Togo, Value = 0.102488995
+Key = COVID-19 pandemic in Madagascar, Value = 0.09732503
+Key = COVID-19 pandemic in Guinea, Value = 0.09082203
+Key = White House Coronavirus Task Force, Value = 0.090597615
+Key = COVID-19 pandemic in Alaska, Value = 0.09342464
+Key = COVID-19 pandemic in Egypt, Value = 0.093810566
+Key = COVID-19 pandemic in Gabon, Value = 0.09210316
+Key = COVID-19 pandemic in Saint Pierre and Miquelon, Value = 0.10016212
+Key = COVID-19 pandemic in Illinois, Value = 0.09788275
+Key = COVID-19 pandemic in the Marshall Islands, Value = 0.09398533
+Key = Pasteur Institute of Dakar, Value = 0.100480765
+Key = COVID-19 pandemic in Niger, Value = 0.10821754
+Key = DA2PPC vaccine, Value = 0.09239997
+Key = Embassy of Israel, Athens, Value = 0.09185025
+Key = COVID-19 pandemic in Chad, Value = 0.09566325
+Key = Innocenzo Donina, Value = 0.09298424
+Key = COVID-19 pandemic in Connecticut, Value = 0.095034435
+Key = COVID-19 pandemic in the Kurdistan Region, Value = 0.093498416
+Key = COVID-19 pandemic in Ceuta, Value = 0.11560754
+Key = United Kingdom legislation connected with the COVID-19 pandemic, Value = 0.101298206
+Key = COVID-19 pandemic in Panama, Value = 0.09744156
+Key = COVID-19 pandemic in Mozambique, Value = 0.09079562
+Key = COVID-19 pandemic in Cuba, Value = 0.0996437
+Key = Vicenç Capdevila, Value = 0.091793455
+Key = COVID-19 pandemic in North America, Value = 0.095576994
+Key = Wikipedia's response to the COVID-19 pandemic, Value = 0.09067945
+Key = SARS (disambiguation), Value = 0.111180484
+Key = COVID-19 pandemic in Burundi, Value = 0.10275011
+Key = Hamid Kahram, Value = 0.091793455
+Key = COVID-19 pandemic death rates by country, Value = 0.09641782
+Key = COVID-19 pandemic in the Sahrawi Arab Democratic Republic, Value = 0.10158047
+Key = COVID-19 pandemic in Mauritania, Value = 0.1035127
+Key = Novel coronavirus, Value = 0.14685224
+Key = COVID-19 pandemic in Mali, Value = 0.10048709
+Key = COVID-19 pandemic in the Canary Islands, Value = 0.099115014
+Key = COVID-19 pandemic in New Caledonia, Value = 0.09505331
+Key = COVID-19 pandemic in Rwanda, Value = 0.09446019
+Key = Human coronavirus 229E, Value = 0.092658006
+Key = Timeline of the COVID-19 pandemic in February 2020, Value = 0.09662873
+Key = Rene Maglanque, Value = 0.09303654
+Showing concepts of "Severe acute respiratory syndrome-related coronavirus"
+Key = Acute (medicine), Value = 0.08660587
+Key = Proning, Value = 0.09651332
+Key = COVID-19 pandemic in Liechtenstein, Value = 0.08349391
+Key = Susan Weiss, Value = 0.08392294
+Key = Seattle Coronavirus Assessment Network, Value = 0.091552086
+Key = COVID-19 pandemic in Monaco, Value = 0.105902426
+Key = COVID-19 pandemic in Eritrea, Value = 0.08236052
+Key = Steven Dick, Value = 0.08118995
+Key = Betacoronavirus, Value = 0.116284326
+Key = COVID-19 pandemic in Vanuatu, Value = 0.08826478
+Key = Coronaviridae, Value = 0.15145193
+Key = Caroline McElnay, Value = 0.077840336
+Key = COVID-19 pandemic in Martinique, Value = 0.09149377
+Key = Severe acute respiratory syndrome–related coronavirus, Value = 0.099413455
+Key = COVID-19 pandemic in Antarctica, Value = 0.089865126
+Key = COVID-19 pandemic in East Timor, Value = 0.09303901
+Key = Severe acute respiratory syndrome, Value = 0.087398656
+Key = COVID-19 pandemic in São Paulo (state), Value = 0.08457723
+Key = Singaporean measures against Middle East respiratory syndrome, Value = 0.08587721
+Key = List of ICD-9 codes 460–519: diseases of the respiratory system, Value = 0.08082024
+Key = Horowitz index, Value = 0.08555753
+Key = COVID-19 pandemic in Haiti, Value = 0.08569444
+Key = Nasopharyngeal swab, Value = 0.07903481
+Key = List of covers of Time magazine (2020s), Value = 0.08864562
+Key = The Journal of Antibiotics, Value = 0.08021459
+Key = COVID-19 pandemic in the Republic of the Congo, Value = 0.0817234
+Key = Human coronavirus HKU1, Value = 0.1354695
+Key = List of syndromes, Value = 0.13488255
+Key = London1 novel CoV/2012, Value = 0.09756271
+Key = COVID-19 pandemic in Sevastopol, Value = 0.086836316
+Key = Middle East respiratory syndrome, Value = 0.10328937
+Key = COVID-19 pandemic in the Cayman Islands, Value = 0.07981355
+Key = Cinanserin, Value = 0.077099636
+Key = Rousettus bat coronavirus HKU9, Value = 0.19451495
+Key = COVID-19 pandemic in Guadeloupe, Value = 0.09007823
+Key = Middle East respiratory syndrome–related coronavirus, Value = 0.09585869
+Key = JR East Akita Peckers, Value = 0.077099636
+Key = Coronavirus diseases, Value = 0.13251178
+Key = COVID-19 pandemic in the Bahamas, Value = 0.09366347
+Key = COVID-19 pandemic in the Åland Islands, Value = 0.090023875
+Key = 3C-like protease, Value = 0.09063244
+Key = Malik Peiris, Value = 0.081676334
+Key = History of coronavirus, Value = 0.08275175
+Key = Health Protection (Coronavirus) Regulations 2020, Value = 0.097787894
+Key = CV, Value = 0.08240332
+Key = COVID-19 pandemic in the Maldives, Value = 0.08093749
+Key = Swine acute diarrhea syndrome coronavirus, Value = 0.12690108
+Key = Teresa Lambe, Value = 0.11297457
+Key = Respiratory acidosis, Value = 0.0839257
+Key = COVID-19 pandemic in the Solomon Islands, Value = 0.08316036
+Key = Symptoms of COVID-19, Value = 0.07813632
+Key = Notifiable diseases in the United States, Value = 0.09700295
+Key = Bat SARS-like coronavirus WIV1, Value = 0.16937144
+Key = SARS coronavirus X4 like protein domain, Value = 0.097118095
+Key = Samira Mubareka, Value = 0.09037107
+Key = COVID-19 pandemic in Akrotiri and Dhekelia, Value = 0.07981355
+Key = Pipistrellus bat coronavirus HKU5, Value = 0.11243912
+Key = Human coronavirus NL63, Value = 0.13852513
+Key = COVID-19 pandemic in Saint Pierre and Miquelon, Value = 0.08598879
+Key = Carolyn Calfee, Value = 0.09462694
+Key = Miniopterus bat coronavirus 1, Value = 0.100490674
+Key = Coronavirus, Value = 0.08557813
+Key = Notifiable diseases in the United Kingdom, Value = 0.10993952
+Key = Non-invasive ventilation, Value = 0.10189914
+Key = Allison McGeer, Value = 0.089821905
+Key = Liu Wen (doctor), Value = 0.07767195
+Key = Management of COVID-19, Value = 0.08067941
+Key = COVID-19 pandemic in the Marshall Islands, Value = 0.08826478
+Key = Tylonycteris bat coronavirus HKU4, Value = 0.11738339
+Key = COVID-19 pandemic in Niger, Value = 0.09648868
+Key = Acute respiratory distress syndrome, Value = 0.097545475
+Key = Mohammad Ali Ramazani Dastak, Value = 0.0837
+Key = COVID-19 pandemic in the Kurdistan Region, Value = 0.08484258
+Key = Miniopterus bat coronavirus HKU8, Value = 0.09861642
+Key = COVID-19 pandemic in Ceuta, Value = 0.09765001
+Key = COVID-19 pandemic in Panama, Value = 0.08360557
+Key = COVID-19 pandemic in Greenland, Value = 0.0790979
+Key = MERS coronavirus EMC/2012, Value = 0.11116213
+Key = Acute interstitial pneumonitis, Value = 0.07933925
+Key = Respiratory compromise, Value = 0.08894747
+Key = National Public Health Emergency Team, Value = 0.077099636
+Key = COVID-19 pandemic in Cuba, Value = 0.07911867
+Key = Chinese Center for Disease Control and Prevention, Value = 0.080865204
+Key = Stay-at-home order, Value = 0.07852392
+Key = SARS (disambiguation), Value = 0.17267865
+Key = Respiratory disease, Value = 0.09986904
+Key = Coronavirus 5′ UTR, Value = 0.08016535
+Key = Endoribonuclease XendoU, Value = 0.08279395
+Key = List of infectious diseases, Value = 0.08243838
+Key = Coronavirus packaging signal, Value = 0.08994851
+Key = List of abbreviations for diseases and disorders, Value = 0.11060457
+Key = COVID-19 pandemic in São Tomé and Príncipe, Value = 0.077428
+Key = Chinese virus, Value = 0.08240332
+Key = Novel coronavirus, Value = 0.20008557
+Key = Human coronavirus OC43, Value = 0.10665167
+Key = Emanuel Goldman, Value = 0.08240332
+Key = Severe acute respiratory syndrome coronavirus, Value = 0.1251053
+Key = COVID-19 pandemic in New Caledonia, Value = 0.08774424
+Key = Human coronavirus 229E, Value = 0.14092135
+Key = Viral structural protein, Value = 0.10456416
+Coronavirus disease 2019 Severe acute respiratory syndrome-related coronavirus
+0.36845145
+Coronavirus disease 2019 Strain (biology)
+0.010645017
+Coronavirus disease 2019 Coronary artery disease
+0.0
+Coronavirus disease 2019 Biocide
+0.0
+Coronavirus disease 2019 February 5
+0.0
+Coronavirus disease 2019 Zhou Xianwang
+0.0
+Coronavirus disease 2019 Diseases Database
+0.0
+Coronavirus disease 2019 Natural killer cell
+0.0
+Coronavirus disease 2019 Immune reconstitution inflammatory syndrome
+0.0
+Coronavirus disease 2019 Infection control
+0.01211222
+Coronavirus disease 2019 Interleukin 8
+0.0
+Coronavirus disease 2019 Serology
+0.0
+Coronavirus disease 2019 Surgeon
+0.0
+Coronavirus disease 2019 Peter C. Doherty
+0.0
+Coronavirus disease 2019 Daniel Koch (Swiss physician)
+0.0
+Coronavirus disease 2019 Hand foot and mouth disease
+0.0
+Coronavirus disease 2019 Rubella
+0.0
+Coronavirus disease 2019 Leukopenia
+0.0
+Coronavirus disease 2019 Vaccination
+0.0
+Coronavirus disease 2019 Jean-Lou Justine
+0.0
+Coronavirus disease 2019 Side effect
+0.0
+Coronavirus disease 2019 Wang Xiaodong (born 1960)
+0.0
+Coronavirus disease 2019 Spitting
+0.0
+Coronavirus disease 2019 Virology
+0.0
+Coronavirus disease 2019 Geneva University Hospitals
+0.0
+Coronavirus disease 2019 Premier of the People's Republic of China
+0.0
+Coronavirus disease 2019 Lymphocytopenia
+0.0
+Coronavirus disease 2019 Sciensano
+0.0
+Coronavirus disease 2019 Oasis of the Seas
+0.0
+Coronavirus disease 2019 Hamilton Texas
+0.0
+Coronavirus disease 2019 Cardboard
+0.0
+Coronavirus disease 2019 Compartmental models in epidemiology
+0.0
+Coronavirus disease 2019 Airport
+0.0
+Coronavirus disease 2019 Progesterone
+0.0
+Coronavirus disease 2019 Fatty liver disease
+0.0
+Coronavirus disease 2019 Encephalitis
+0.0
+Coronavirus disease 2019 Bacteria
+0.0
+Showing concepts of "Coronavirus disease 2019"
+Key = Helen Y. Chu, Value = 0.0904494
+Key = COVID-19 pandemic in Uzbekistan, Value = 0.095947705
+Key = Joanne Lemieux, Value = 0.09480132
+Key = Murine coronavirus, Value = 0.09443909
+Key = Giovanni Battista Rabino, Value = 0.09055101
+Key = COVID-19 pandemic in Senegal, Value = 0.09789083
+Key = COVID-19 pandemic in Liechtenstein, Value = 0.0932824
+Key = COVID-19 pandemic in Liberia, Value = 0.09044647
+Key = Susan Weiss, Value = 0.09700909
+Key = Angelo Borrelli, Value = 0.10093844
+Key = COVID-19 pandemic in Monaco, Value = 0.121189415
+Key = COVID-19 pandemic in Eritrea, Value = 0.100846864
+Key = Steven Dick, Value = 0.10379407
+Key = COVID-19 pandemic in the Democratic Republic of the Congo, Value = 0.09912362
+Key = COVID-19 pandemic in Vanuatu, Value = 0.09398533
+Key = Timeline of the COVID-19 pandemic in the United States, Value = 0.098619714
+Key = COVID-19 pandemic in Portland, Oregon, Value = 0.09062406
+Key = Coronaviridae, Value = 0.12733568
+Key = Iraj Harirchi, Value = 0.09751543
+Key = COVID-19 pandemic in Martinique, Value = 0.10298736
+Key = COVID-19 pandemic in Antarctica, Value = 0.12552321
+Key = COVID-19 pandemic in East Timor, Value = 0.10232913
+Key = COVID-19 pandemic in Eswatini, Value = 0.09704959
+Key = COVID-19 pandemic in Haiti, Value = 0.09721597
+Key = COVID-19 pandemic in Benin, Value = 0.099994294
+Key = COVID-19 pandemic in Guatemala, Value = 0.09214164
+Key = List of covers of Time magazine (2020s), Value = 0.09072665
+Key = Coronavirus Act 2020, Value = 0.10612548
+Key = COVID-19 pandemic in the Republic of the Congo, Value = 0.102740176
+Key = COVID-19 pandemic in Sudan, Value = 0.093385786
+Key = Human coronavirus HKU1, Value = 0.10277423
+Key = COVID-19 pandemic in Djibouti, Value = 0.101189844
+Key = COVID-19 pandemic in Sevastopol, Value = 0.09458989
+Key = Francesco Saverio Pavone, Value = 0.09023023
+Key = COVID-19 pandemic in the Cayman Islands, Value = 0.10565422
+Key = Hadi Khosroshahi, Value = 0.10937554
+Key = COVID-19 pandemic in Guadeloupe, Value = 0.10555288
+Key = Louise Wain, Value = 0.10008729
+Key = Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020, Value = 0.09105963
+Key = Patient under investigation, Value = 0.13728018
+Key = Coronavirus diseases, Value = 0.09992348
+Key = COVID-19 pandemic in the Bahamas, Value = 0.107321985
+Key = COVID-19 pandemic in the Åland Islands, Value = 0.10563041
+Key = March 2020 Oval Office Address, Value = 0.092148766
+Key = Statistics of the COVID-19 pandemic in Malaysia, Value = 0.10457441
+Key = COVID-19 pandemic deaths in January 2020, Value = 0.10070491
+Key = COVID-19 pandemic in the Maldives, Value = 0.10012982
+Key = Teresa Lambe, Value = 0.09906704
+Key = COVID-19 pandemic in the Northern Mariana Islands, Value = 0.090734765
+Key = Social stigma associated with COVID-19, Value = 0.091528244
+Key = COVID-19 pandemic in the Solomon Islands, Value = 0.09294895
+Key = Gaetano Manfredi, Value = 0.09027624
+Key = Canine coronavirus, Value = 0.11374285
+Key = COVID-19 pandemic in the United States Virgin Islands, Value = 0.09843634
+Key = Avi Schiffmann, Value = 0.09458989
+Key = COVID-19 pandemic in New Jersey, Value = 0.094239175
+Key = COVID-19 pandemic in the Central African Republic, Value = 0.096389346
+Key = Khalif Mumin Tohow, Value = 0.10318972
+Key = COVID-19 pandemic in Akrotiri and Dhekelia, Value = 0.098896444
+Key = Teku Hospital, Value = 0.120636865
+Key = COVID-19 pandemic in Togo, Value = 0.102488995
+Key = COVID-19 pandemic in Madagascar, Value = 0.09732503
+Key = COVID-19 pandemic in Guinea, Value = 0.09082203
+Key = White House Coronavirus Task Force, Value = 0.090597615
+Key = COVID-19 pandemic in Alaska, Value = 0.09342464
+Key = COVID-19 pandemic in Egypt, Value = 0.093810566
+Key = COVID-19 pandemic in Gabon, Value = 0.09210316
+Key = COVID-19 pandemic in Saint Pierre and Miquelon, Value = 0.10016212
+Key = COVID-19 pandemic in Illinois, Value = 0.09788275
+Key = COVID-19 pandemic in the Marshall Islands, Value = 0.09398533
+Key = Pasteur Institute of Dakar, Value = 0.100480765
+Key = COVID-19 pandemic in Niger, Value = 0.10821754
+Key = DA2PPC vaccine, Value = 0.09239997
+Key = Embassy of Israel, Athens, Value = 0.09185025
+Key = COVID-19 pandemic in Chad, Value = 0.09566325
+Key = Innocenzo Donina, Value = 0.09298424
+Key = COVID-19 pandemic in Connecticut, Value = 0.095034435
+Key = COVID-19 pandemic in the Kurdistan Region, Value = 0.093498416
+Key = COVID-19 pandemic in Ceuta, Value = 0.11560754
+Key = United Kingdom legislation connected with the COVID-19 pandemic, Value = 0.101298206
+Key = COVID-19 pandemic in Panama, Value = 0.09744156
+Key = COVID-19 pandemic in Mozambique, Value = 0.09079562
+Key = COVID-19 pandemic in Cuba, Value = 0.0996437
+Key = Vicenç Capdevila, Value = 0.091793455
+Key = COVID-19 pandemic in North America, Value = 0.095576994
+Key = Wikipedia's response to the COVID-19 pandemic, Value = 0.09067945
+Key = SARS (disambiguation), Value = 0.111180484
+Key = COVID-19 pandemic in Burundi, Value = 0.10275011
+Key = Hamid Kahram, Value = 0.091793455
+Key = COVID-19 pandemic death rates by country, Value = 0.09641782
+Key = COVID-19 pandemic in the Sahrawi Arab Democratic Republic, Value = 0.10158047
+Key = COVID-19 pandemic in Mauritania, Value = 0.1035127
+Key = Novel coronavirus, Value = 0.14685224
+Key = COVID-19 pandemic in Mali, Value = 0.10048709
+Key = COVID-19 pandemic in the Canary Islands, Value = 0.099115014
+Key = COVID-19 pandemic in New Caledonia, Value = 0.09505331
+Key = COVID-19 pandemic in Rwanda, Value = 0.09446019
+Key = Human coronavirus 229E, Value = 0.092658006
+Key = Timeline of the COVID-19 pandemic in February 2020, Value = 0.09662873
+Key = Rene Maglanque, Value = 0.09303654
+Showing concepts of "Betacoronavirus"
+Key = Murine coronavirus, Value = 0.1204018
+Key = Coronavirus HKU15, Value = 0.11916688
+Key = Betacoronavirus 1, Value = 0.27520412
+Key = Pipistrellus bat coronavirus HKU5, Value = 0.20640309
+Key = 1889–1890 pandemic, Value = 0.039722294
+Key = Betacoronavirus, Value = 0.20472401
+Key = Anthroponotic disease, Value = 0.042131856
+Key = Coronaviridae, Value = 0.15543807
+Key = Eleni Nastouli, Value = 0.08426371
+Key = Nobecovirus, Value = 0.28087902
+Key = Severe acute respiratory syndrome–related coronavirus, Value = 0.051600773
+Key = Coronavirus disease 2019, Value = 0.012413218
+Key = Severe acute respiratory syndrome coronavirus 2, Value = 0.019861147
+Key = Embecovirus, Value = 0.25122586
+Key = Coronavirus, Value = 0.08657274
+Key = Cave nectar bat, Value = 0.04965287
+Key = Tylonycteris bat coronavirus HKU4, Value = 0.19861148
+Key = Human coronavirus HKU1, Value = 0.1204018
+Key = Rhinonycteridae, Value = 0.07944459
+Key = Rhinolophus bat coronavirus HKU2, Value = 0.13902803
+Key = London1 novel CoV/2012, Value = 0.11916688
+Key = Misinformation related to the COVID-19 pandemic, Value = 0.009930573
+Key = Middle East respiratory syndrome, Value = 0.035109878
+Key = Deltacoronavirus, Value = 0.16852742
+Key = Coronavirus 3′ UTR, Value = 0.14043951
+Key = Gammacoronavirus, Value = 0.19661532
+Key = Rousettus bat coronavirus HKU9, Value = 0.31087613
+Key = MERS coronavirus EMC/2012, Value = 0.22205439
+Key = Middle East respiratory syndrome–related coronavirus, Value = 0.07882148
+Key = Alphacoronavirus, Value = 0.17764351
+Key = Marc Van Ranst, Value = 0.07944459
+Key = List of virus species, Value = 0.021065928
+Key = Coronavirus diseases, Value = 0.08426371
+Key = Bovine coronavirus, Value = 0.17764351
+Key = Scotophilus bat coronavirus 512, Value = 0.14043951
+Key = List of virus genera, Value = 0.04965287
+Key = Coronavirus 5′ UTR, Value = 0.11235161
+Key = History of coronavirus, Value = 0.048649676
+Key = 2015 Middle East respiratory syndrome outbreak in South Korea, Value = 0.039722294
+Key = Coronavirus packaging signal, Value = 0.11235161
+Key = Cynopterus, Value = 0.19661532
+Key = Novel coronavirus, Value = 0.07944459
+Key = Human coronavirus OC43, Value = 0.16852742
+Key = Severe acute respiratory syndrome coronavirus, Value = 0.039722294
+Key = Antibody-dependent enhancement, Value = 0.03010045
+Key = Human coronavirus 229E, Value = 0.05958344
+Key = List of unproven methods against COVID-19, Value = 0.019861147
+Key = Merbecovirus, Value = 0.28087902
+Key = Face masks during the COVID-19 pandemic, Value = 0.012413218
+Coronavirus disease 2019 Betacoronavirus
+0.069145076
+Coronavirus disease 2019 West Nile fever
+0.0
+Coronavirus disease 2019 Generation time
+0.0
+Coronavirus disease 2019 Drug repositioning
+0.0
+Coronavirus disease 2019 Skin
+0.0
+Coronavirus disease 2019 Epidemic
+0.0
+Coronavirus disease 2019 Epidemiology
+0.0
+Coronavirus disease 2019 Genital wart
+0.0
+Coronavirus disease 2019 Secretion
+0.0
+Coronavirus disease 2019 Measles
+0.0
+Coronavirus disease 2019 Blood culture
+0.0
+Coronavirus disease 2019 Zika fever
+0.0
+Coronavirus disease 2019 Mucous membrane
+0.0
+Coronavirus disease 2019 Transaminase
+0.0
+Coronavirus disease 2019 Ganciclovir
+0.0
+Coronavirus disease 2019 Molluscum contagiosum
+0.0
+Coronavirus disease 2019 Nipah virus infection
+0.0
+Coronavirus disease 2019 Crimean–Congo hemorrhagic fever
+0.012987377
+Coronavirus disease 2019 Charité
+0.0
+Coronavirus disease 2019 White blood cell
+0.0
+Coronavirus disease 2019 Gastrointestinal tract
+0.0
+Coronavirus disease 2019 China Central Television
+0.0
+Coronavirus disease 2019 Enterobacter
+0.0
+Coronavirus disease 2019 Amniotic fluid
+0.0
+Coronavirus disease 2019 Headache
+0.0
+Coronavirus disease 2019 Biological target
+0.0
+Coronavirus disease 2019 Bat
+0.0
+Coronavirus disease 2019 Hospital-acquired infection
+0.0
+Coronavirus disease 2019 Cell (biology)
+0.0
+Coronavirus disease 2019 Apgar score
+0.0
+Coronavirus disease 2019 Parvovirus B19
+0.011373511
+Coronavirus disease 2019 Central China
+0.0
+Coronavirus disease 2019 Ebola virus disease
+0.0
+Coronavirus disease 2019 Australian bat lyssavirus
+0.0
+Coronavirus disease 2019 Sensory neuron
+0.0
+Coronavirus disease 2019 Chickenpox
+0.0
+Coronavirus disease 2019 Emerging infectious disease
+0.0
+Coronavirus disease 2019 Henipavirus
+0.0
+Coronavirus disease 2019 Hôpital Cochin
+0.0
+Coronavirus disease 2019 Paris
+0.0
+Coronavirus disease 2019 Etiology
+0.0
+Coronavirus disease 2019 Pre-eclampsia
+0.0
+Coronavirus disease 2019 Endocytosis
+0.0
+Coronavirus disease 2019 Shingles
+0.0
+Coronavirus disease 2019 Structural analog
+0.0
+Coronavirus disease 2019 Huanan Seafood Wholesale Market
+0.0
+Coronavirus disease 2019 Poisoning
+0.0
+Coronavirus disease 2019 Contraindication
+0.0
+Coronavirus disease 2019 Titration
+0.0
+Coronavirus disease 2019 Duvenhage lyssavirus
+0.0
+Coronavirus disease 2019 Differential diagnosis
+0.0
+Coronavirus disease 2019 Lactate dehydrogenase
+0.0
+Coronavirus disease 2019 Influenza A virus subtype H7N9
+0.0
+Coronavirus disease 2019 Fake news
+0.0
+Coronavirus disease 2019 Disinformation
+0.0
+Coronavirus disease 2019 Air conditioning
+0.0
+Coronavirus disease 2019 Kyasanur Forest disease
+0.0
+Coronavirus disease 2019 United Kingdom
+0.0
+Coronavirus disease 2019 Sample (statistics)
+0.0
+Coronavirus disease 2019 Polymerase
+0.0
+Coronavirus disease 2019 Prevalence
+0.0
+Coronavirus disease 2019 Ageusia
+0.013256758
+Coronavirus disease 2019 Real-time polymerase chain reaction
+0.0
+Coronavirus disease 2019 Ultraviolet
+0.0
+Coronavirus disease 2019 Transcription (biology)
+0.0
+Coronavirus disease 2019 Notifiable disease
+0.0
+Coronavirus disease 2019 Membrane protein
+0.0
+Coronavirus disease 2019 Oseltamivir
+0.0
+Coronavirus disease 2019 January 30
+0.0
+Coronavirus disease 2019 D-dimer
+0.0
+Coronavirus disease 2019 Toxoplasmosis
+0.0
+Coronavirus disease 2019 Humidity
+0.0
+Coronavirus disease 2019 January 7
+0.0
+Coronavirus disease 2019 Obstetrics
+0.0
